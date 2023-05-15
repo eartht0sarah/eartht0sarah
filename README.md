@@ -13,11 +13,11 @@
 
 😄 Pronouns: she/hers/they/them
 
-🔭 Building a portfolio and translating product management skills to Web3
+🔭 Building a portfolio and translating product management skills to Web3!
 
 🌱 Learning about the economics of blockchain and digital assets (also learning Markdown as I create this README - lol)
 
-💬 Ask me about scrum, scaled agile framework, lean methodology, healthcare IT, electronic health records/interoperability, or Cerner Millennium
+❔ Ask me about scrum, scaled agile framework, lean methodology, healthcare IT, electronic health records/interoperability, or Cerner Millennium.
 
 🤔 Looking for help with getting connected to philanthropic Web3 projects, including:
  - health equity

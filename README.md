@@ -8,18 +8,16 @@
 
 
 ### Lovely to meet you! 
-#### *I'm Sarah, solution strategist for a behavioral health org, looking to gain Web3 experience*
+#### *I'm Sarah, behavioral health product manager, looking to gain Web3 experience*
 ---
 
 😄 Pronouns: she/hers/they/them
-
-🔭 Building a portfolio and translating product management skills to Web3!
 
 🌱 Learning about the economics of blockchain and digital assets (also learning Markdown as I create this README - lol)
 
 ❔ Ask me about scrum, scaled agile framework, lean methodology, healthcare IT, electronic health records/interoperability, or Cerner Millennium.
 
-🤔 Looking for help with getting connected to philanthropic Web3 projects, including:
+🤔 Looking for commections to Web3 projects, including:
  - health equity
  - healthcare interoperability
  - sustainability (esp. in fashion industry)
@@ -32,8 +30,6 @@
 YOUR TABLE
 
 </details>-->
-
-⚡ Fun fact: If I can guide our Boomer psychiatrists to engage positively with the EHR, I can manage any stakeholders' expectations of any product!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BB2649?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/selali) 
 [![Twitter](https://img.shields.io/badge/Twitter-BB2649?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/eartht0sarah) 

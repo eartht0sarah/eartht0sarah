@@ -1,9 +1,9 @@
 <base target="_blank">
-<picture>
+<!--- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/124409895/216742331-847f1756-3d08-4140-9d87-e1fbb8091025.PNG">
  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/124409895/216742331-847f1756-3d08-4140-9d87-e1fbb8091025.PNG">
  <img alt="AI-generated photo of Sarah as an astronaut" src="https://user-images.githubusercontent.com/124409895/216742331-847f1756-3d08-4140-9d87-e1fbb8091025.PNG" height=200px; width=200px; align=right>
-</picture>
+</picture> ---> 
 
 
 

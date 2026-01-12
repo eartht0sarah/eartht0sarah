@@ -7,19 +7,19 @@
 
 
 
-### Lovely to meet you! 
+### Pleased to meet you! 
 #### *I'm Sarah, behavioral health product manager, looking to gain Web3 experience*
 ---
 
 😄 Pronouns: she/hers/they/them
 
-🌱 Learning about the economics of blockchain and digital assets (also learning Markdown as I create this README - lol)
+🌱 Learning about the economics of blockchain and digital assets
 
-❔ Ask me about scrum, scaled agile framework, lean methodology, healthcare IT, electronic health records/interoperability, or Cerner Millennium.
+❔ Ask me about scrum, scaled agile framework, lean methodology, healthcare IT, or electronic health records/interoperability.
 
-🤔 Looking for commections to Web3 projects, including:
+🤔 seeking like minds for and networking opportunities to discuss:
  - health equity
- - healthcare interoperability
+ - conversational interoperability
  - sustainability (esp. in fashion industry)
 
 📫 Connect with me: sarahanneelali@gmail.com
@@ -32,9 +32,9 @@ YOUR TABLE
 </details>-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BB2649?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/selali) 
-[![Twitter](https://img.shields.io/badge/Twitter-BB2649?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/eartht0sarah) 
-[![Discord](https://img.shields.io/badge/Discord-BB2649?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/1068693766719946792)
-[![TikTok](https://img.shields.io/badge/TikTok-BB2649?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@eartht0sarah?lang=en)
+[![Twitter](https://img.shields.io/badge/Twitter-BB2649?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/) 
+[![Discord](https://img.shields.io/badge/Discord-BB2649?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/)
+[![TikTok](https://img.shields.io/badge/TikTok-BB2649?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/)
 
 > *Those who dare to fail miserably can achieve greatly*
 -John F. Kennedy

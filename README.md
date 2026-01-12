@@ -8,19 +8,19 @@
 
 
 ### Pleased to meet you! 
-#### *I'm Sarah, behavioral health product manager, looking to gain Web3 experience*
+#### *Sarah, here 👋*
 ---
 
 😄 Pronouns: she/hers/they/them
 
-🌱 Learning about the economics of blockchain and digital assets
+🌱 Learning about agentic AI and healthcare applications
 
 ❔ Ask me about scrum, scaled agile framework, lean methodology, healthcare IT, or electronic health records/interoperability.
 
-🤔 seeking like minds for and networking opportunities to discuss:
+🤔 seeking like minds and networking opportunities to discuss:
  - health equity
  - conversational interoperability
- - sustainability (esp. in fashion industry)
+ - sustainability (fashion + tech)
 
 📫 Connect with me: sarahanneelali@gmail.com
 <!--
